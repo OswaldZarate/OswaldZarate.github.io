@@ -3,6 +3,12 @@
 ----------------------- Base styles ----------------
 ---------------------------------------------------*/
 
+.fcc-btn {
+    background-color: #199319;
+    color: white;
+  }
+
+
 @media (min-width: 1200px) {
     .container {
         width: 1130px !important;
