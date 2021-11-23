@@ -3,7 +3,6 @@
 ----------------------- Base styles ----------------
 ---------------------------------------------------*/
 
-
 @media (min-width: 1200px) {
     .container {
         width: 1130px !important;
@@ -822,7 +821,7 @@ ul.about li {
     color: #717171;
     display: block;
     font-size: 13px;
-    border-bottom: 1px solid #3f3e3e;
+    border-bottom: 1px solid #e6e6e6;
 }
 
 ul.about li:last-child {
@@ -907,13 +906,13 @@ ul.about {
     font-style: italic;
     margin: 0 30px;
     font-size: 12px;
-    border-top: 1px solid rgba(255, 255, 255, 0.145);
+    border-top: 1px solid rgba(255,255,255,0.5);
     opacity: 0;
     transition: all 1s ease-in-out 0.4s;
 }
 .ch-info-prof p a {
     display: block;
-    color: rgba(255, 255, 255, 0.207);
+    color: rgba(255,255,255,0.7);
     font-style: normal;
     text-transform: uppercase;
     font-size: 9px;
@@ -1316,10 +1315,6 @@ ul.about {
     font-size: 11px;
     color: #fff;
     text-transform: capitalize;
-}
-.fcc-btn {
-    background-color: #fdfdfd;
-    color: rgb(207, 16, 16);
 }
 .skillbar-title span {
     display: block;
