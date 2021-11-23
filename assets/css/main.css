@@ -1316,6 +1316,10 @@ ul.about {
     color: #fff;
     text-transform: capitalize;
 }
+.fcc-btn {
+    background-color: #fdfdfd;
+    color: rgb(207, 16, 16);
+}
 .skillbar-title span {
     display: block;
     background: rgba(0, 0, 0, 0.1);
